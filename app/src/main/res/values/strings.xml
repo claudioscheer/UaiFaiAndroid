@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Uai Fai</string>
+    <string name="title_activity_main">Mapa de redes</string>
+    <string name="loading">Carregando sistema…</string>
+    <string name="gps_needed">Ative o GPS para usar o melhor do Uai Fai.</string>
+    <string name="error_google_connect">Não foi possível se conectar a Google.</string>
+    <string name="error_sigin">Error ao logar. Tente novamente.</string>
+    <string name="server_unavailable">Servidor indisponível.</string>
+    <string name="main_menu_settings">Configurações</string>
+    <string name="main_menu_refresh">Atualizar</string>
+    <string name="refresh_map_delay">Atualizar o mapa a cada</string>
+    <string name="time_limit_networks">Ignorar redes mais antigas que</string>
+    <string name="show_wifi_informations">Mostrar pontos WiFi?</string>
+    <string name="show_wifi_informations_yes">Sim</string>
+    <string name="show_wifi_informations_no">Não</string>
+    <string name="main_menu_help">Ajuda</string>
+    <string name="increase_zoom">Aumente o zoom para buscar as redes WiFi.</string>
+</resources>
